@@ -8,7 +8,7 @@ Tabular dataset contains numerical information about bananas of different qualit
 [Banana Data.csv](https://www.kaggle.com/datasets/l3llff/banana)
 
 ## Tools
-python 
+Jupyter
 
 ## Exploratory Data Analysis
 EDA involved exploring the  data to answer key questions, such as:
